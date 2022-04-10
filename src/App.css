@@ -1,0 +1,17 @@
+/* @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;300;400;500;700&family=M+PLUS+Rounded+1c:wght@100;300;400;500;700&display=swap');  */
+@import url('https://fonts.googleapis.com/css2?family=Kosugi&family=Kosugi+Maru&family=Sawarabi+Gothic&family=Yusei+Magic&display=swap');
+/*✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽
+font-family: 'M PLUS 1p', sans-serif;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Kosugi', sans-serif;
+font-family: 'Kosugi Maru', sans-serif; 
+font-family: 'Sawarabi Gothic', sans-serif;
+font-family: 'Yusei Magic', sans-serif;
+✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Yusei Magic', sans-serif;
+}
