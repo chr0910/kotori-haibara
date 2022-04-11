@@ -40,7 +40,7 @@ const Services = () => {
             </ServicesWrapper>
             <GuidelineWrapper>
                 <GuidelineLinkRouter
-                    to={process.env.PUBLIC_URL + '/guidelines.pdf'}
+                    href={process.env.PUBLIC_URL + '/guidelines.pdf'}
                     target="_blank"
                     rel="noopener noreferrer">
                         <GuidelineDate>2022/04/01</GuidelineDate>
