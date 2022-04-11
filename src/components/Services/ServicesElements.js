@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { Link as LinkR } from 'react-router-dom';
 
 export const ServicesContainer = styled.div`
     height: 100%;
@@ -117,7 +116,7 @@ export const GuidelineDate = styled.span`
     cursor: default;
 `
 
-export const GuidelineLinkRouter = styled(LinkR)`
+export const GuidelineLinkRouter = styled.a`
     color: black;
     display: flex;
     align-items: center;
